@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/kurnihafizbc55](https://www.behance.net/kurnihafizbc55)
 
-- 📫 How to reach me **kurni.hafiz2002@gmailcom**
+- 📫 How to reach me **kurni.hafiz2002@gmail.com**
 
 - ⚡ Fun fact **I was to be call Fish(pis)**
 
