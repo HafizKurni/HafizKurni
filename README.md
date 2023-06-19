@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Kurniawan</h1>
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning React and Angular 
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/kurnihafizbc55](https://www.behance.net/kurnihafizbc55)
 
-- 📫 How to reach me **kurni.hafiz2002@gmail.com**
+- 📫 How to reach me **kurni.hafiz2002@gmail.com** 
 
 - ⚡ Fun fact **I was to be call Fish(pis)**
 
