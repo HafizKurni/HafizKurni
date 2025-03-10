@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Kurniawan</h1>
 
-- 🌱 I’m currently learning Flutter and Godot Engine
+- 🌱 I’m currently learning Game Design and Game Programmer
 
 - 👨‍💻 Some of my portfolio design are available at [https://www.behance.net/kurnihafizbc55](https://www.behance.net/kurnihafizbc55)
 
